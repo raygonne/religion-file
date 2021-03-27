@@ -2,20 +2,28 @@ African Traditional & Diasporic
 Agnostic
 Atheism
 Atheist
+Angel
+Baptist
 Baha'i
 Buddhism
 Buddhist
 Cao Dai
-Chinese traditional religion
+Church
 Catholic
+Catholics
 Catholicism
 Christianity
 Christian
+Devil
+Devil worshipper
+worship
 Hinduism
 Hindu
 Islam
 Islamist
 Jainism
+Jewish
+Jew
 Juche
 Judaism
 Judist
@@ -24,6 +32,7 @@ Jehovah
 Methodist
 Neo-Paganism
 Non-religious
+Pope
 Paganism
 Paganist
 Satanism
